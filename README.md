@@ -1,1 +1,1 @@
-This Python script detects and couts the number of car in an image
+This Python script detects and counts the number of car in an image
